@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\3kurs\3kurs\bin\Debug\3kurs.exe.config
+C:\Users\Администратор\source\repos\3kurs\3kurs\bin\Debug\3kurs.exe
+C:\Users\Администратор\source\repos\3kurs\3kurs\bin\Debug\3kurs.pdb
+C:\Users\Администратор\source\repos\3kurs\3kurs\obj\Debug\3kurs.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\3kurs\3kurs\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\3kurs\3kurs\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\3kurs\3kurs\obj\Debug\3kurs_MarkupCompile.cache
+C:\Users\Администратор\source\repos\3kurs\3kurs\obj\Debug\3kurs_MarkupCompile.lref
+C:\Users\Администратор\source\repos\3kurs\3kurs\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\3kurs\3kurs\obj\Debug\3kurs.g.resources
+C:\Users\Администратор\source\repos\3kurs\3kurs\obj\Debug\_3kurs.Properties.Resources.resources
+C:\Users\Администратор\source\repos\3kurs\3kurs\obj\Debug\3kurs.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\3kurs\3kurs\obj\Debug\3kurs.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\3kurs\3kurs\obj\Debug\3kurs.exe
+C:\Users\Администратор\source\repos\3kurs\3kurs\obj\Debug\3kurs.pdb
